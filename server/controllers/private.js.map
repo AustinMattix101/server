@@ -1,0 +1,1 @@
+{"version":3,"file":"private.js","sourceRoot":"","sources":["../../src/controllers/private.ts"],"names":[],"mappings":";;;AAAA,SAAgB,cAAc,CAAC,IAAQ,EAAE,GAAO,EAAE,KAAS;IACvD,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC;QACjB,OAAO,EAAE,IAAI;QACb,MAAM,EAAE,UAAU;QAClB,OAAO,EAAE,mDAAmD;KAC/D,CAAC,CAAC;AACP,CAAC;AAND,wCAMC"}
